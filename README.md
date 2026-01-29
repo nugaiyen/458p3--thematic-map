@@ -7,7 +7,7 @@ This project include 2 intereactive web browser maps. The first one is a choropl
 ## Rates
 
 To access the interactive map of Covid-19 <ins> Rates </ins> in the USA, 2020, please click the link [here.](https://nugaiyen.github.io/458p3--thematic-map/map2.html)
-This is a choropleth map. You can click on each county to see the Covid-19 rate for 1,000 people, for that specific county, along side with the state, case counts, and death counts. The darker the county, the higher its rate. On the left side, you can find more information and scroll down as needed. To impliment this, I looked through the content in [GEO 328, lab 4](https://github.com/jakobzhao/geog328/tree/main/labs/lab04).
+This is a choropleth map. You can click on each county to see the Covid-19 rate for 1,000 people, for that specific county, along side with the state, case counts, and death counts. The darker the county, the higher its rate. On the left side, you can find more information and scroll down as needed. To impliment this, I looked through the contents in [GEO 328, lab 4](https://github.com/jakobzhao/geog328/tree/main/labs/lab04).
 
 Bellow is a preview of the map:
 
