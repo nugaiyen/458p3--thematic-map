@@ -8,6 +8,6 @@ write up a project description in the readme.md file. This file will introduce t
 To access the interactive map of Covid-19 <ins> Cases </ins> in the USA, 2020, please click the link [here.](https://nugaiyen.github.io/458p3--thematic-map/map2.html)
 
 
-To access the interactive map of Covid-19 <ins>Rates</ins> in the USA, 2020, please click the link here.
+To access the interactive map of Covid-19 <ins>Rates</ins> in the USA, 2020, please click the link [here.]("https://nugaiyen.github.io/458p3--thematic-map/map1.html")
 
 
