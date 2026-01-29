@@ -2,7 +2,7 @@
 write up a project description in the readme.md file. This file will introduce the project name, a brief introduction, links to the map, screenshots, the primary functions(especially the function which was not covered in the lectures), libraries in use, data sources, credit, acknowledgment, and other necessary information. (6 points)
 
 # Covid-19 Cases and Rates in the USA, 2020
-This project include 2 intereactive web browser maps. The first one is a choropleth map demonstrating the different  <ins> Rates </ins> of Covid-19 through each county in 2020. The second map is a proportional symbols map that demonstrates the different <ins>Cases</ins> in each county. 
+This project include 2 intereactive web browser maps. The first one is a choropleth map demonstrating the different  <ins> Rates </ins> of Covid-19 through each county in 2020. The second map is a proportional symbols map that demonstrates the different Covid-19 <ins>Cases</ins> through each county in 2020. 
 
 ## Rates
 
