@@ -6,8 +6,10 @@ write up a project description in the readme.md file. This file will introduce t
 # Covid-19 Cases and Rates in the USA, 2020
 
 To access the interactive map of Covid-19 <ins> Cases </ins> in the USA, 2020, please click the link [here.](https://nugaiyen.github.io/458p3--thematic-map/map2.html)
+This is a choropleth map. You can click on each county to see the Covid-19 rate for 1,000 people, for that specific county, along side with the state, case counts, and death counts. The darker the county, the higher its rate. 
 
 
-To access the interactive map of Covid-19 <ins>Rates</ins> in the USA, 2020, please click the link [here.]("https://nugaiyen.github.io/458p3--thematic-map/map1.html")
+To access the interactive map of Covid-19 <ins>Rates</ins> in the USA, 2020, please click the link [here.]("https://nugaiyen.github.io/458p3--thematic-map/map1.html") 
+This is a proportional symbols. You can click dot see the Covid-19 cases. You will also find its corrosponding, state, county, and death counts. 
 
 
